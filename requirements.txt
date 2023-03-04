@@ -1,0 +1,7 @@
+pyrogram
+bs4
+aiohttp
+asyncio
+python-dotenv
+tgcrypto
+requests
