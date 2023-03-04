@@ -12,10 +12,6 @@
    Never ever abuse this repository
 ``` 
 
-## Coming soon 
-
-`source coming soon on april 1st`
-
 ## License
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
